@@ -1,3 +1,6 @@
+# Learning "try...except" using a (while-loop)
+
+
 while True:
     number = input("Give a number: ").lower()
 
